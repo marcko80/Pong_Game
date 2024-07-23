@@ -1,8 +1,3 @@
-# [python]
-Ecco una descrizione per il tuo repository GitHub:
-
----
-
 # Pong Game in Pygame
 
 Questo progetto è una versione del classico gioco Pong, realizzato utilizzando la libreria Pygame. Il gioco include funzionalità per il punteggio, il movimento delle racchette e della palla, e un processo di onboarding per chiedere i nomi dei giocatori. 
